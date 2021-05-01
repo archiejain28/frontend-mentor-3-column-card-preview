@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/archiejain28/frontend-mentor-3-column-card-preview
+- Live Site URL: https://archiejain28.github.io/frontend-mentor-3-column-card-preview/
 
 ## My process
 
